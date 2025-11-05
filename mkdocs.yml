@@ -1,3 +1,51 @@
 site_name: CSIDE Help
+plugins:
+- search
 theme:
   name: material
+  features:
+    - navigation.instant
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to system preference
+
+markdown_extensions:
+- toc:
+    permalink: true
+- attr_list
+- md_in_html
+- admonition
+- pymdownx.details
+- pymdownx.superfences
+- pymdownx.emoji:
+    emoji_index: !!python/name:material.extensions.emoji.twemoji
+    emoji_generator: !!python/name:material.extensions.emoji.to_svg
+extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/Dorset-Council-UK
+copyright: All content is available under the Open Government Licence v3.0 except where otherwise stated. Some screenshots contain OS data © Crown Copyright and database rights OS AC0000830671
+nav:
+    - 'index.md'
