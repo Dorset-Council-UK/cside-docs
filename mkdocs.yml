@@ -49,3 +49,11 @@ extra:
 copyright: All content is available under the Open Government Licence v3.0 except where otherwise stated. Some screenshots contain OS data © Crown Copyright and database rights OS AC0000830671
 nav:
     - 'index.md'
+    - 'rights-of-way.md'
+    - 'maintenance.md'
+    - 'infrastructure.md'
+    - 'surveys.md'
+    - 'dmmo.md'
+    - 'ppo.md'
+    - 'landowner-deposits.md'
+    - 'management.md'
