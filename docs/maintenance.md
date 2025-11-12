@@ -8,21 +8,21 @@ Click on the 'Create a new job' button to get started.
 
 ![Create a maintenance job](/images/maintenance-create.png)
 
-On the next screen, use the map to find the location you want - use your mouse-wheel or the <kbd>+</kbd> and <kbd>-</kbd> buttons to zoom in and out and click and drag to move the map. Click on the map to place a point - if you get it wrong, just click again.
+On the next screen, use the map to find the location you want. Use your mouse-wheel or the <kbd>+</kbd> and <kbd>-</kbd> buttons to zoom in and out and click and drag to move the map. Click on the map to place a point - if you get it wrong, just click again.
 
 !!! note 
     Your maintenance job must be near a Right of Way.
 
 Next fill in the rest of the details as needed:
 
-- Route code - should already be filled in based on where you clicked on the map. If it's incorrect you can change it
+- Route code (required) - should already be filled in based on where you clicked on the map. If it's incorrect you can change it
 - Problem description (required) - a brief description of the problem
 - Priority - pick a priority
 - Status - pick a status
 - Problem types - pick as many types as you need
 - Work done - details of any work that has been carried out
 
-Click on 'Create' once you're done and you'll be taken to a details page where you can make changes or add photos, contacts and more (see the Edit maintenance job section below).
+Click on 'Create' once you're done and you'll be taken to a details page where you can make changes or add photos, contacts and more (see the edit maintenance job section below).
 
 ## Search for a maintenance job
 
@@ -48,7 +48,7 @@ You can also add other details to a job without clicking on Edit but by scrollin
 Add comments by typing in the text box, choose whether it's public or not and click on 'Add Comment'. Edit and delete comments by using the 'Edit' and 'Delete' buttons.
 
 !!! warning 
-    Comments marked as public will show on the council website - make sure there is nothing inappropriate or personal.
+    Comments marked as public will show on the council website.
 
 ### Contacts
 Add contact details that are important for the job by clicking on the 'Add contact' button. Fill in the details as needed and hit Save. Edit and delete contacts by using the 'Edit' and 'Delete' buttons.
