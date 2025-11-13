@@ -9,7 +9,7 @@ Create, edit and view Rights of Way.
 
 Click on the 'Create new Right of Way' button to get started. 
 
-![Create a new Right of Way](images/row-create.png)
+![Create a new Right of Way](images/row-create.png){: style="height:125px"}
 
 On the next screen, use the map to find the location you want. Use your mouse-wheel or the <kbd>+</kbd> and <kbd>-</kbd> buttons to zoom in and out and click and drag to move the map. Click on the map to start drawing your route, and keep clicking along where you want your route to go. Double-click to finish and the line will turn yellow. 
 
@@ -56,7 +56,7 @@ Change the Operational status dropdown to 'Open' and then click on the 'Update' 
 
 Search for the Right of Way you want to edit and click on the 'Edit' button.
 
-![Edit a Right of Way](images/row-edit.png)
+![Edit a Right of Way](images/row-edit.png){: style="height:100px"}
 
 You can edit the route on the map and any of the other details as needed. Click 'Update' when you're done.
 

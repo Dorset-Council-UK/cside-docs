@@ -29,7 +29,7 @@ If you're ready to submit, click on the 'Submit survey' button. You can also sav
 
 Click on 'Existing bridge surveys' to check surveys that are waiting for validation, are incomplete or view complete surveys.
 
-![Check existing bridge surveys](images/surveys-existing.png)
+![Check existing bridge surveys](images/surveys-existing.png){: style="height:400px"}
 
 ### Validating a survey
 
@@ -43,7 +43,7 @@ At the bottom of the page, you'll have some options to fill in:
 
 Click on 'Approve survey' if you're approving or 'Reject survey' if you're rejecting.
 
-![Approve a bridge survey](images/survey-approve.png)
+![Approve a bridge survey](images/survey-approve.png){: style="height:300px"}
 
 ### Incomplete surveys
 

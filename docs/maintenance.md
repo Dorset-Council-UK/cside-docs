@@ -9,7 +9,7 @@ Create, edit and view maintenance jobs.
 
 Click on the 'Create a new job' button to get started. 
 
-![Create a maintenance job](images/maintenance-create.png)
+![Create a maintenance job](images/maintenance-create.png){: style="height:125px"}
 
 On the next screen, use the map to find the location you want. Use your mouse-wheel or the <kbd>+</kbd> and <kbd>-</kbd> buttons to zoom in and out and click and drag to move the map. Click on the map to place a point - if you get it wrong, just click again.
 
@@ -41,7 +41,7 @@ If your search finds only one job, you'll be taken straight to the details. If y
 
 Search for the maintenance job you want to edit and click on the 'Edit' button.
 
-![Edit a maintenance job](images/maintenance-edit.png)
+![Edit a maintenance job](images/maintenance-edit.png){: style="height:100px"}
 
 You can edit the location of the pin on the map and any of the other details as needed. Click 'Update' when you're done.
 

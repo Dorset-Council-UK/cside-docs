@@ -9,7 +9,7 @@ Create, edit and view infrastructure items.
 
 Click on the 'Create new infrastructure' button to get started. 
 
-![Create an infrastructure item](images/infrastructure-create.png)
+![Create an infrastructure item](images/infrastructure-create.png){: style="height:125px"}
 
 On the next screen, use the map to find the location you want. Use your mouse-wheel or the <kbd>+</kbd> and <kbd>-</kbd> buttons to zoom in and out and click and drag to move the map. Click on the map to place a point - if you get it wrong, just click again.
 
@@ -41,7 +41,7 @@ If your search finds only one result, you'll be taken straight to the details. I
 
 Search for the infrastructure item you want to edit and click on the 'Edit' button.
 
-![Edit an infrastructure item](images/infrastructure-edit.png)
+![Edit an infrastructure item](images/infrastructure-edit.png){: style="height:100px"}
 
 You can edit the location of the pin on the map and any of the other details as needed. If your infrastructure is a bridge, fill in any details as needed. Click 'Update' when you're done.
 

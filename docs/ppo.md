@@ -9,7 +9,7 @@ Create, edit and view PPOs.
 
 Click on the 'Create new PPO' button to get started. 
 
-![Create a PPO](images/ppo-create.png)
+![Create a PPO](images/ppo-create.png){: style="height:125px"}
 
 On the next screen, use the map to find the location you want. Use your mouse-wheel or the <kbd>+</kbd> and <kbd>-</kbd> buttons to zoom in and out and click and drag to move the map. Click on the map to start drawing your route, and keep clicking along where you want your route to go. Double-click to finish and the line will turn yellow. 
 
@@ -54,7 +54,7 @@ If your search finds only one PPO, you'll be taken straight to the details. If y
 
 Search for the PPO you want to edit and click on the 'Edit' button.
 
-![Edit a PPO](images/ppo-edit.png)
+![Edit a PPO](images/ppo-edit.png){: style="height:100px"}
 
 You can edit the route on the map and any of the other details as needed. Click 'Update' when you're done.
 

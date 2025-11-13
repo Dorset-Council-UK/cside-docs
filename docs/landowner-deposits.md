@@ -9,7 +9,7 @@ Create, edit and view Landowner Deposits.
 
 Click on the 'Create' button to get started. 
 
-![Create a Landowner Deposit](images/landowner-deposit-create.png)
+![Create a Landowner Deposit](images/landowner-deposit-create.png){: style="height:200px"}
 
 On the next screen, use the map to find the location you want. Use your mouse-wheel or the <kbd>+</kbd> and <kbd>-</kbd> buttons to zoom in and out and click and drag to move the map. Click on the map to start drawing your polygon, and keep clicking where you want your shape to go. Close your shape to finish and the polygon will turn yellow. 
 
@@ -53,7 +53,7 @@ If your search finds only one Landowner Deposit, you'll be taken straight to the
 
 Search for the Landowner Deposit you want to edit and click on the 'Edit' button.
 
-![Edit a Landowner Deposit](images/landowner-deposit-edit.png)
+![Edit a Landowner Deposit](images/landowner-deposit-edit.png){: style="height:100px"}
 
 You can edit the polygon on the map and any of the other details as needed. Click 'Update' when you're done.
 
