@@ -6,7 +6,7 @@ Create, edit and view maintenance jobs.
 
 Click on the 'Create a new job' button to get started. 
 
-![Create a maintenance job](/images/maintenance-create.png)
+![Create a maintenance job](images/maintenance-create.png)
 
 On the next screen, use the map to find the location you want. Use your mouse-wheel or the <kbd>+</kbd> and <kbd>-</kbd> buttons to zoom in and out and click and drag to move the map. Click on the map to place a point - if you get it wrong, just click again.
 
@@ -38,7 +38,7 @@ If your search finds only one job, you'll be taken straight to the details. If y
 
 Search for the maintenance job you want to edit and click on the 'Edit' button.
 
-![Edit a maintenance job](/images/maintenance-edit.png)
+![Edit a maintenance job](images/maintenance-edit.png)
 
 You can edit the location of the pin on the map and any of the other details as needed. Click 'Update' when you're done.
 
@@ -56,9 +56,9 @@ Add contact details that are important for the job by clicking on the 'Add conta
 ### Infrastructure
 If there is any infrastructure related to the maintenance job, click on the 'Add infrastructure link' button. Any infrastructure nearby will be listed, add them to the job by clicking on each one you want - a green tick will appear when successful, close the window when you're done. If the infrastructure item you want is not listed, search for it using the text box and click on 'Add infrastructure link'.
 
-![Adding infrastructure items to a maintenance job](/images/maintenance-infrastructure-items.png)
+![Adding infrastructure items to a maintenance job](images/maintenance-infrastructure-items.png)
 
 ### Media
 Add any photos or videos by clicking the 'Choose files' button or by dragging and dropping. You can add multiple media items and rotate them if you need to. Delete a media item by clicking on the 'Delete' button. Download a copy of the media item by clicking on the download icon.
 
-![Deleting, rotating and downloading media items](/images/media-controls.png)
+![Deleting, rotating and downloading media items](images/media-controls.png)

@@ -6,7 +6,7 @@ Create, edit and view infrastructure items.
 
 Click on the 'Create new infrastructure' button to get started. 
 
-![Create an infrastructure item](/images/infrastructure-create.png)
+![Create an infrastructure item](images/infrastructure-create.png)
 
 On the next screen, use the map to find the location you want. Use your mouse-wheel or the <kbd>+</kbd> and <kbd>-</kbd> buttons to zoom in and out and click and drag to move the map. Click on the map to place a point - if you get it wrong, just click again.
 
@@ -38,7 +38,7 @@ If your search finds only one result, you'll be taken straight to the details. I
 
 Search for the infrastructure item you want to edit and click on the 'Edit' button.
 
-![Edit an infrastructure item](/images/infrastructure-edit.png)
+![Edit an infrastructure item](images/infrastructure-edit.png)
 
 You can edit the location of the pin on the map and any of the other details as needed. If your infrastructure is a bridge, fill in any details as needed. Click 'Update' when you're done.
 
@@ -55,4 +55,4 @@ See the [surveys page](./surveys.md) for more information about how to create, e
 ### Media
 Add any photos or videos by clicking the 'Choose files' button or by dragging and dropping. You can add multiple media items and rotate them if you need to. Delete a media item by clicking on the 'Delete' button. Download a copy of the media item by clicking on the download icon.
 
-![Deleting, rotating and downloading media items](/images/media-controls.png)
+![Deleting, rotating and downloading media items](images/media-controls.png)
