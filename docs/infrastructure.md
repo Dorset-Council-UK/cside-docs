@@ -2,6 +2,9 @@
 
 Create, edit and view infrastructure items.
 
+!!! note
+  Only Rangers and Administrators will have access to create and edit.
+
 ## Create a new infrastructure item
 
 Click on the 'Create new infrastructure' button to get started. 
