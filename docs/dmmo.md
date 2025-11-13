@@ -2,6 +2,9 @@
 
 Create, edit and view DMMOs.
 
+!!! note
+  Only Rights of Way Officers and Administrators will have access to create and edit.
+
 ## Create a new DMMO
 
 Click on the 'Add DMMO' button to get started. 

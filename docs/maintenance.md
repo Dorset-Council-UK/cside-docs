@@ -2,6 +2,9 @@
 
 Create, edit and view maintenance jobs.
 
+!!! note
+  Only Rights of Way Officers, Rangers and Administrators will have access to create and edit.
+
 ## Create a new maintenance job
 
 Click on the 'Create a new job' button to get started. 

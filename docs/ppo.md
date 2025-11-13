@@ -2,6 +2,9 @@
 
 Create, edit and view PPOs.
 
+!!! note
+  Only Rights of Way Officers and Administrators will have access to create and edit.
+
 ## Create a new PPO
 
 Click on the 'Create new PPO' button to get started. 

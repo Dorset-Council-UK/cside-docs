@@ -3,7 +3,7 @@
 Managing users and viewing audit logs.
 
 !!! note
-    Only administators will be able to access this page.
+    Only Administators will be able to access this page.
 
 To get to the management area, click on your name at the top-right of the screen and select 'Manage application'.
 

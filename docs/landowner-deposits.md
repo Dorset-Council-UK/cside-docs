@@ -2,6 +2,9 @@
 
 Create, edit and view Landowner Deposits.
 
+!!! note
+  Only Rights of Way Officers and Administrators will have access to create and edit.
+
 ## Create a new Landowner Deposit
 
 Click on the 'Create' button to get started. 
