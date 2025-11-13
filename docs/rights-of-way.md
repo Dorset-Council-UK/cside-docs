@@ -2,6 +2,9 @@
 
 Create, edit and view Rights of Way.
 
+!!! note
+  Only Rights of Way Officers and Administrators will have access to create and edit. Rangers can close and reopen Rights of Way.
+
 ## Create a new Right of Way
 
 Click on the 'Create new Right of Way' button to get started. 
@@ -32,6 +35,22 @@ Search for Rights of Way in a number of ways:
 - Search using other information including the team responsible, status, type and more
 
 If your search finds only one Right of Way, you'll be taken straight to the details. If your search brings back more than one result, you'll see the results in a table and can click on the one you want.
+
+## Close or reopen a Right of Way
+
+### Close a Right of Way
+
+Search for the Right of Way you want and click on the 'Edit' button at the top of the page.
+
+Change the Operational status dropdown to 'Closed' and pick a closure date and a reopening date. If the route is closing indefinitely, only enter a closure date and check the closed indefinitely option.
+
+Click on the 'Update' button to save your changes.
+
+### Reopen a Right of Way
+
+Rights of Way due to reopen are displayed on the home page or you can search for one. Click on it to go to the details and click on the 'Edit' button at the top of the page.
+
+Change the Operational status dropdown to 'Open' and then click on the 'Update' button to save your changes.
 
 ## Edit a Right of Way
 
