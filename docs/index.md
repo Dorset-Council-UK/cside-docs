@@ -1,3 +1,5 @@
 # Welcome to CSIDE!
 
-Include the homepage bits an bobs, mention that you'll only see maint jobs for your team area unless you're admin, and RoWs only for rangers and row officers.
+This application allows you to manage the Rights of Way network and related information.
+
+When you log in, the homepage will show you some useful information (depending on your role!) and you can manage various things by going to the sidebar on the left.
