@@ -3,7 +3,7 @@
 Create, edit and view Rights of Way.
 
 !!! note
-  Only Rights of Way Officers and Administrators will have access to create and edit. Rangers can close and reopen Rights of Way.
+    Only Rights of Way Officers and Administrators will have access to create and edit. Rangers can close and reopen Rights of Way.
 
 ## Create a new Right of Way
 
