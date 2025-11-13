@@ -45,6 +45,13 @@ Search for the maintenance job you want to edit and click on the 'Edit' button.
 
 You can edit the location of the pin on the map and any of the other details as needed. Click 'Update' when you're done.
 
+!!! info "Profanity and personal information (PII)"
+    Since members of the public can submit maintenance jobs online, we have a profanity filter and personal information redactor on the problem description. Personal information will automatically be redacted and any profanity will cause the whole description to be hidden.
+
+    This screenshot shows an example of personal information being filtered out. The original description is shown at the top, and the redacted description as it appears on the website is shown below. You can choose to delete the redaction by clicking the 'Delete redaction' button. Alternatively, if you want to keep the description but just remove some profanity or PII, click on the 'Edit' button at the top of the page and manually amend the text as you need.
+
+    ![Example of personal information being redacted](images/maintenance-pii-filter.png)
+
 You can also add other details to a job without clicking on Edit but by scrolling down and going to each section.
 
 ### Comments
