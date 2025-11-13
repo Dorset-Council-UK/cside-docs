@@ -1,9 +1,16 @@
 # Landowner Deposits
 
-Create, edit and view Landowner Deposits.
-
 !!! note
     Only Rights of Way Officers and Administrators will have access to create and edit.
+
+## Search for a Landowner Deposit
+
+Search for Landowner Deposits in a number of ways:
+
+- Search by Landowner Deposit ID number
+- Search using location or parish
+
+If your search finds only one Landowner Deposit, you'll be taken straight to the details. If your search brings back more than one result, you'll see the results in a table and can click on the one you want.
 
 ## Create a new Landowner Deposit
 
@@ -39,15 +46,6 @@ Next fill in the rest of the details as needed:
 - Primary contact - start typing to bring up a list of names and pick one or type one in yourself
 
 Click on 'Create' once you're done and you'll be taken to a details page where you can make changes or add events, documents, contacts, affected addresses and more (see the edit Landowner Deposit section below).
-
-## Search for a Landowner Deposit
-
-Search for Landowner Deposits in a number of ways:
-
-- Search by Landowner Deposit ID number
-- Search using location or parish
-
-If your search finds only one Landowner Deposit, you'll be taken straight to the details. If your search brings back more than one result, you'll see the results in a table and can click on the one you want.
 
 ## Edit a Landowner Deposit
 

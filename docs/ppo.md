@@ -1,9 +1,16 @@
 # Public Path Orders (PPOs)
 
-Create, edit and view PPOs.
-
 !!! note
     Only Rights of Way Officers and Administrators will have access to create and edit.
+
+## Search for a PPO
+
+Search for PPOs in a number of ways:
+
+- Search by PPO reference number
+- Search using other information including location, status, date ranges and more
+
+If your search finds only one PPO, you'll be taken straight to the details. If your search brings back more than one result, you'll see the results in a table and can click on the one you want.
 
 ## Create a new PPO
 
@@ -40,15 +47,6 @@ Next fill in the rest of the details as needed:
 - Public comments - any comments that you want to appear on the council website
 
 Click on 'Create' once you're done and you'll be taken to a details page where you can make changes or add events, documents, contacts and more (see the edit PPO section below).
-
-## Search for a PPO
-
-Search for PPOs in a number of ways:
-
-- Search by PPO reference number
-- Search using other information including location, status, date ranges and more
-
-If your search finds only one PPO, you'll be taken straight to the details. If your search brings back more than one result, you'll see the results in a table and can click on the one you want.
 
 ## Edit a PPO
 

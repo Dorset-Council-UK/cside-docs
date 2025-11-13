@@ -1,9 +1,16 @@
 # Rights of Way
 
-Create, edit and view Rights of Way.
-
 !!! note
     Only Rights of Way Officers and Administrators will have access to create and edit. Rangers can close and reopen Rights of Way.
+
+## Search for a Right of Way
+
+Search for Rights of Way in a number of ways:
+
+- Search by route code
+- Search using other information including the team responsible, status, type and more
+
+If your search finds only one Right of Way, you'll be taken straight to the details. If your search brings back more than one result, you'll see the results in a table and can click on the one you want.
 
 ## Create a new Right of Way
 
@@ -26,15 +33,6 @@ Next fill in the rest of the details as needed:
 - Operational status - pick an operational status from the drowdown menu
 
 Click on 'Create' once you're done and you'll be taken to a details page where you can make changes or add photos, view statements and any infrastructure on the route (see the edit Right of Way section below).
-
-## Search for a Right of Way
-
-Search for Rights of Way in a number of ways:
-
-- Search by route code
-- Search using other information including the team responsible, status, type and more
-
-If your search finds only one Right of Way, you'll be taken straight to the details. If your search brings back more than one result, you'll see the results in a table and can click on the one you want.
 
 ## Close or reopen a Right of Way
 

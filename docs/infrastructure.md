@@ -1,9 +1,16 @@
 # Infrastructure
 
-Create, edit and view infrastructure items.
-
 !!! note 
     Only Rangers and Administrators will have access to create and edit.
+
+## Search for insfrastructure
+
+Search for infrastructure in a number of ways:
+
+- Search by Infrastructure ID number
+- Search using other information including the team responsible, type, date ranges and more
+
+If your search finds only one result, you'll be taken straight to the details. If your search brings back more than one result, you'll see the results in a table and can click on the one you want.
 
 ## Create a new infrastructure item
 
@@ -27,15 +34,6 @@ Next fill in the rest of the details as needed:
 - Installation - pick a date
 
 Click on 'Create' once you're done and you'll be taken to a details page where you can make changes, view surveys or add photos (see the edit infrastructure item section below).
-
-## Search for insfrastructure
-
-Search for infrastructure in a number of ways:
-
-- Search by Infrastructure ID number
-- Search using other information including the team responsible, type, date ranges and more
-
-If your search finds only one result, you'll be taken straight to the details. If your search brings back more than one result, you'll see the results in a table and can click on the one you want.
 
 ## Edit an infrastructure item
 

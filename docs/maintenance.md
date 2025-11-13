@@ -1,9 +1,17 @@
 # Maintenance
 
-Create, edit and view maintenance jobs.
-
 !!! note
     Only Rights of Way Officers, Rangers and Administrators will have access to create and edit.
+
+## Search for a maintenance job
+
+Search for maintenance jobs in a number of ways:
+
+- Click on the 'View all incomplete jobs' button to see all incomplete jobs
+- Search by Job ID number
+- Search using other information including the team responsible, status, date ranges and more
+
+If your search finds only one job, you'll be taken straight to the details. If your search brings back more than one result, you'll see the results in a table and can click on the one you want.
 
 ## Create a new maintenance job
 
@@ -26,16 +34,6 @@ Next fill in the rest of the details as needed:
 - Work done - details of any work that has been carried out
 
 Click on 'Create' once you're done and you'll be taken to a details page where you can make changes or add photos, contacts and more (see the edit maintenance job section below).
-
-## Search for a maintenance job
-
-Search for maintenance jobs in a number of ways:
-
-- Click on the 'View all incomplete jobs' button to see all incomplete jobs
-- Search by Job ID number
-- Search using other information including the team responsible, status, date ranges and more
-
-If your search finds only one job, you'll be taken straight to the details. If your search brings back more than one result, you'll see the results in a table and can click on the one you want.
 
 ## Edit a maintenance job
 

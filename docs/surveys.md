@@ -1,7 +1,5 @@
 # Surveys
 
-Create, update and view bridge surveys.
-
 !!! note
     Only Surveyors, Survey Validators, Rangers and Administrators will have access to create or validate surveys.
 

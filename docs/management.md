@@ -1,11 +1,9 @@
 # Management
 
-Managing users and viewing audit logs.
-
 !!! note
     Only Administators will be able to access this page.
 
-To get to the management area, click on your name at the top-right of the screen and select 'Manage application'.
+Use the management area to manage users and roles, and to check audit logs. To get to the management area, click on your name at the top-right of the screen and select 'Manage application'.
 
 ## Users
 
