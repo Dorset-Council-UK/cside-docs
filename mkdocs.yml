@@ -1,6 +1,8 @@
 site_name: CSIDE Help
 plugins:
 - search
+extra_css:
+  - stylesheets/custom.css
 theme:
   name: material
   features:
