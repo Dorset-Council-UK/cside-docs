@@ -20,9 +20,17 @@ Click on the 'Create new Right of Way' button to get started.
 
 On the next screen, use the map to find the location you want. Use your mouse-wheel or the <kbd>+</kbd> and <kbd>-</kbd> buttons to zoom in and out and click and drag to move the map. Click on the map to start drawing your route, and keep clicking along where you want your route to go. Double-click to finish and the line will turn yellow. 
 
-If you make a mistake and want to edit your line, click on the Pencil icon on the map to turn on edit mode - you'll see your line highlighted and each node you drew marked as a red circle. Click and drag on any of the nodes to edit your line or add new nodes as you need. To fully delete your drawing and start again, click on the bin icon. To start drawing again, click on the draw icon.
+If you make a mistake and want to edit your line, click on the Pencil icon on the map to turn on edit mode - you'll see your line highlighted and each node you drew marked as a red circle. Click and drag on any of the nodes to edit your line or add new nodes as you need.
 
 ![Edit a Right of Way drawing](images/row-edit-drawing.png)
+
+To fully delete your drawing and start again, click on the bin icon. 
+
+![Delete your drawing](images/map-delete-icon.png)
+
+To start drawing again, click on the draw icon.
+
+![Turn on drawing mode](images/map-draw-line-icon.png)
 
 Next fill in the rest of the details as needed:
 

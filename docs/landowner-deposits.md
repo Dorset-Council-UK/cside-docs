@@ -20,9 +20,17 @@ Click on the 'Create' button to get started.
 
 On the next screen, use the map to find the location you want. Use your mouse-wheel or the <kbd>+</kbd> and <kbd>-</kbd> buttons to zoom in and out and click and drag to move the map. Click on the map to start drawing your polygon, and keep clicking where you want your shape to go. Close your shape to finish and the polygon will turn yellow. 
 
-If you make a mistake and want to edit your polygon, click on the Pencil icon on the map to turn on edit mode - you'll see your polygon highlighted. Click and drag on the line to edit your polygon. To fully delete your drawing and start again, click on the bin icon. To start drawing again, click on the draw icon.
+If you make a mistake and want to edit your polygon, click on the Pencil icon on the map to turn on edit mode - you'll see your polygon highlighted. Click and drag on the line to edit your polygon.
 
 ![Edit a Landowner Deposit drawing](images/landowner-deposit-edit-drawing.png)
+
+To fully delete your drawing and start again, click on the bin icon. 
+
+![Delete your drawing](images/map-delete-icon.png)
+
+To start drawing again, click on the draw icon.
+
+![Turn on drawing mode](images/map-draw-polygon-icon.png)
 
 Next fill in the rest of the details as needed:
 
