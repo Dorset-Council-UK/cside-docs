@@ -5,10 +5,10 @@
 
 ## Search for a Right of Way
 
-Search for Rights of Way in a number of ways:
+Search for Rights of Way using:
 
-- Search by route code
-- Search using other information including the team responsible, status, type and more
+- a route code
+- other information including the team responsible, status, type and more
 
 If your search finds only one Right of Way, you'll be taken straight to the details. If your search brings back more than one result, you'll see the results in a table and can click on the one you want.
 

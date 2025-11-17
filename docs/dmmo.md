@@ -5,10 +5,10 @@
 
 ## Search for a DMMO
 
-Search for DMMOs in a number of ways:
+Search for DMMOs using:
 
-- Search by DMMO reference number
-- Search using other information including location, status, date ranges and more
+- a DMMO reference number
+- other information including location, status, date ranges and more
 
 If your search finds only one DMMO, you'll be taken straight to the details. If your search brings back more than one result, you'll see the results in a table and can click on the one you want.
 

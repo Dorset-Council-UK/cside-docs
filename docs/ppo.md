@@ -5,10 +5,10 @@
 
 ## Search for a PPO
 
-Search for PPOs in a number of ways:
+Search for PPOs using:
 
-- Search by PPO reference number
-- Search using other information including location, status, date ranges and more
+- a PPO reference number
+- other information including location, status, date ranges and more
 
 If your search finds only one PPO, you'll be taken straight to the details. If your search brings back more than one result, you'll see the results in a table and can click on the one you want.
 

@@ -5,10 +5,10 @@
 
 ## Search for insfrastructure
 
-Search for infrastructure in a number of ways:
+Search for infrastructure using:
 
-- Search by Infrastructure ID number
-- Search using other information including the team responsible, type, date ranges and more
+- an Infrastructure ID number
+- other information including the team responsible, type, date ranges and more
 
 If your search finds only one result, you'll be taken straight to the details. If your search brings back more than one result, you'll see the results in a table and can click on the one you want.
 

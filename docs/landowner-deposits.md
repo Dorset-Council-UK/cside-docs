@@ -5,10 +5,10 @@
 
 ## Search for a Landowner Deposit
 
-Search for Landowner Deposits in a number of ways:
+Search for Landowner Deposits using:
 
-- Search by Landowner Deposit ID number
-- Search using location or parish
+- a Landowner Deposit ID number
+- location or parish
 
 If your search finds only one Landowner Deposit, you'll be taken straight to the details. If your search brings back more than one result, you'll see the results in a table and can click on the one you want.
 

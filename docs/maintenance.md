@@ -5,11 +5,11 @@
 
 ## Search for a maintenance job
 
-Search for maintenance jobs in a number of ways:
+Search for maintenance jobs using:
 
-- Click on the 'View all incomplete jobs' button to see all incomplete jobs
-- Search by Job ID number
-- Search using other information including the team responsible, status, date ranges and more
+- the 'View all incomplete jobs' button to see all incomplete jobs
+- a Job ID number
+- other information including the team responsible, status, date ranges and more
 
 If your search finds only one job, you'll be taken straight to the details. If your search brings back more than one result, you'll see the results in a table and can click on the one you want.
 
