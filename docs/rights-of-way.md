@@ -39,6 +39,7 @@ Next fill in the rest of the details as needed:
 - Route type - pick a type from the dropdown menu
 - Legal status - pick a legal status from the dropdown menu
 - Operational status - pick an operational status from the drowdown menu
+- Notes - any notes you want to add about the route
 
 Click on 'Create' once you're done and you'll be taken to a details page where you can make changes or add photos, view statements and any infrastructure on the route (see the edit Right of Way section below).
 

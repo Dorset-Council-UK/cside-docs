@@ -8,6 +8,7 @@
 Search for PPOs using:
 
 - a PPO reference number
+- the 'View all' button to see all PPOs
 - other information including location, status, date ranges and more
 
 If your search finds only one PPO, you'll be taken straight to the details. If your search brings back more than one result, you'll see the results in a table and can click on the one you want.
@@ -35,18 +36,14 @@ To start drawing again, click on the draw icon.
 Next fill in the rest of the details as needed:
 
 - Tick if you want the PPO to be publicly viewable - if you turn this on the details will appear on the council website
-- Application type (required) - pick from the dropdown menu
-- Application intent - tick one or multiple intents
+- Legislation (required) - pick from the dropdown menu
+- Application type - tick one or multiple types
 - Case status (required) - pick from the dropdown menu
 - Priority (required) - pick from the dropdown menu
 - Application details (required) - brief details about the PPO application
 - Location description - brief description of where the PPO is
 - Received date (required) - pick a date
 - Determination date - pick a date
-- Date of direction - pick a date
-- Inspection and certification - choose an option
-- Date of inspection and certification - pick a date
-- Date confirmation published - pick a date
 - Council-owned land affected - pick an option
 - Charge - type in the charge amount
 - Box number - type in the box number

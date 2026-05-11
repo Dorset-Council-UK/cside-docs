@@ -8,6 +8,7 @@
 Search for DMMOs using:
 
 - a DMMO reference number
+- the 'View all' button to see all DMMOs
 - other information including location, status, date ranges and more
 
 If your search finds only one DMMO, you'll be taken straight to the details. If your search brings back more than one result, you'll see the results in a table and can click on the one you want.
@@ -35,16 +36,16 @@ To start drawing again, click on the draw icon.
 Next fill in the rest of the details as needed:
 
 - Tick if you want the DMMO to be publicly viewable - if you turn this on the details will appear on the council website
-- Application type - pick from the dropdown menu
-- Claimed status - pick from the dropdown menu
+- Application type - pick as many as you need
+- Claimed status - pick as many as you need
 - Case status - pick from the dropdown menu
 - Application details (required) - brief details about the DMMO application
 - Location description - brief description of where the DMMO is
 - Application date (required) - pick a date
 - Received date (required) - pick a date
-- Determination date - pick a date
 - Appeal - choose an option
 - Date of appeal - pick a date
+- Direction of Secretary of State - pick from the dropdown menu
 - Date of direction of Secretary of State - pick a date
 - Case officer - start typing to bring up a list of names and pick one or type one in yourself
 - Private comments - any comments that you want to remain internal
@@ -67,6 +68,9 @@ Add events by typing in the text box and click on 'Add event'. Edit and delete e
 
 ### Orders
 Add orders by clicking on the 'Create new order' button, fill in the details on the next page as needed and click 'Create'. The order will now appear and you can click on it to view the full details. Edit and delete orders by using the 'Edit' and 'Delete' buttons.
+
+### Council decisions
+Add council decisions by clicking on the 'Create council decision' button, fill in the details on the next page as needed and click 'Save'. The council decision will now appear and you can click on it to view the full details. Edit and delete council decisions by using the 'Edit' and 'Delete' buttons.
 
 ### Contacts
 Add contact details by clicking on the 'Add contact' button. Fill in the details as needed and hit Save. Edit and delete contacts by using the 'Edit' and 'Delete' buttons.
