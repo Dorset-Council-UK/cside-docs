@@ -1,6 +1,6 @@
 # CSIDE documentation project
 
-This project contains the help documentation used in CSIDE. The documentation is built using the [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) static site generator.
+This project contains the help documentation used in [CSIDE](https://github.com/Dorset-Council-UK/CSIDE). The documentation is built using the [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) static site generator.
 
 ## Making changes to the guide
 
